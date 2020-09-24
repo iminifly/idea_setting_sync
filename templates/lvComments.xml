@@ -1,0 +1,6 @@
+<templateSet group="lvComments">
+  <template name="*" value="*&#10; * ${tags}&#10; * @Copyright (c) 2012,北京吉威时代软件股份有限公司.All Rights Reserved.&#10; * @link http://www.geoway.com.cn&#10; * @author 吕晓飞&#10; * @since $date$ $time$&#10; * @version 1.0&#10; */" shortcut="ENTER" toReformat="false" toShortenFQNames="true">
+    <variable name="date" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="time" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+</templateSet>
