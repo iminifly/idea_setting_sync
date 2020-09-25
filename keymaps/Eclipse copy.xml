@@ -1,6 +1,9 @@
 <keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="DuplicatesForm.SendToLeft" />
+  <action id="FileChooser.GotoHome" />
   <action id="FixDocComment">
     <keyboard-shortcut first-keystroke="ctrl j" />
   </action>
+  <action id="GotoBookmark1" />
   <action id="IncrementalSearch" />
 </keymap>
