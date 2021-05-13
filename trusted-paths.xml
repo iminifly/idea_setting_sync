@@ -1,0 +1,9 @@
+<application>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="D:/01-code/08-scdm/backend" />
+      </list>
+    </option>
+  </component>
+</application>
